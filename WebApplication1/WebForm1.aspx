@@ -9,8 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        Welcome for our Git Testing Example.
-
+        Welcome From Our Git Testing Example.
     </div>
     </form>
 </body>
